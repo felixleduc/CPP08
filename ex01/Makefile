@@ -6,11 +6,11 @@
 #    By: fleduc <fleduc@student.42quebec.com>       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/02/07 09:51:09 by fleduc            #+#    #+#              #
-#    Updated: 2023/02/10 09:19:28 by fleduc           ###   ########.fr        #
+#    Updated: 2023/02/13 10:47:23 by fleduc           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = STL
+NAME = Span
 
 CPPFLAGS = -Wall -Wextra -Werror -std=c++98 -pedantic
 CC = g++

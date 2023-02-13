@@ -6,11 +6,11 @@
 #    By: fleduc <fleduc@student.42quebec.com>       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/02/07 09:51:09 by fleduc            #+#    #+#              #
-#    Updated: 2023/02/09 15:55:50 by fleduc           ###   ########.fr        #
+#    Updated: 2023/02/13 10:47:32 by fleduc           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = STL
+NAME = easyfind
 
 CPPFLAGS = -Wall -Wextra -Werror -std=c++98 -pedantic
 CC = g++
